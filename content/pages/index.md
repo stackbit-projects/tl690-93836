@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: LOCAL 690
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: SECRETARY-TREASURER
     actions:
       - label: Learn More
         url: /features
