@@ -5,9 +5,6 @@ sections:
     title: LOCAL 690
     subtitle: SECRETARY-TREASURER
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
