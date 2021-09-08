@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: LOCAL 690
+    title: Tea
     subtitle: SECRETARY-TREASURER
     actions:
       - label: Contact Us
