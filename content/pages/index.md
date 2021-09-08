@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Teamsters Local Union No. 690
-    subtitle: '1912 N. Division ST #200'
+    subtitle: "1912 N. Division ST #200,\_ Spokane WA 99207 | Phone (509)-455.9410, 1-800-841-0630 | Fax: (509) 326-9507"
     actions:
       - label: Contact Us
         url: /contact
