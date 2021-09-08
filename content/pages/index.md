@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tea
+    title: Teamsters Local Union No. 690
     subtitle: SECRETARY-TREASURER
     actions:
       - label: Contact Us
