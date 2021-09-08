@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Teamsters Local Union No. 690
-    subtitle: SECRETARY-TREASURER
+    subtitle: '1912 N. Division ST #200'
     actions:
       - label: Contact Us
         url: /contact
